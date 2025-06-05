@@ -121,4 +121,4 @@ Use it responsibly — and beware of fake math! 😈
 
 **Hooriya M. Fareed**  
 Frontend Developer & AI Explorer 💻🧠  
-[LinkedIn]([https://www.linkedin.com/in/hooriya-muhammad-fareed-57a320302/]) | [GitHub]([https://github.com/hooriyaa])
+[LinkedIn](https://www.linkedin.com/in/hooriya-muhammad-fareed-57a320302/) | [GitHub](https://github.com/hooriyaa)
